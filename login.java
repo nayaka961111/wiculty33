@@ -1,5 +1,5 @@
 int =10
 int =20
-int =60
+int =55
 int =40
 
